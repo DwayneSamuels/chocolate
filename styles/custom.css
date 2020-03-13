@@ -5,5 +5,6 @@
 .jumbo-hero-bg{
     background-image: url("../images/chocolate-display.png");
     background-size:cover;
+    height: 100%;
     padding: 10rem 0rem;
 }
