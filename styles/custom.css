@@ -1,3 +1,9 @@
 .dark-bg{
     background-color: #262424;
 }
+
+.jumbo-hero-bg{
+    background-image: url("../images/chocolate-display.png");
+    background-size:cover;
+    padding: 10rem 0rem;
+}
