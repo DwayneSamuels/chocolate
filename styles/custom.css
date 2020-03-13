@@ -4,7 +4,18 @@
 
 .jumbo-hero-bg{
     background-image: url("../images/chocolate-display.png");
+    background-position: center;
     background-size:cover;
     height: 100%;
-    padding: 10rem 0rem;
+    padding: 15rem 0rem;
+    margin-bottom: 0rem;
+}
+
+.info-hero-bg{
+    background-image: url("../images/bg-tile.png");
+    background-color: #ffffff;
+}
+
+.choco-button{
+    background-color: #523122;
 }
