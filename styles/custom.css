@@ -1,21 +1,43 @@
-.dark-bg{
+.dark-bg {
     background-color: #262424;
 }
 
-.jumbo-hero-bg{
+.jumbo-hero-bg {
     background-image: url("../images/chocolate-display.png");
     background-position: center;
-    background-size:cover;
+    background-size: cover;
     height: 100%;
     padding: 15rem 0rem;
     margin-bottom: 0rem;
 }
 
-.info-hero-bg{
+.info-hero-bg {
     background-image: url("../images/bg-tile.png");
     background-color: #ffffff;
 }
 
-.choco-button{
+.choco-button {
     background-color: #523122;
+    border: 0;
+}
+
+.choco-button:hover {
+    background-color: #70422c;
+}
+
+.choco-button:active {
+    background-color: #70422c;
+}
+
+.slate {
+    background: rgba(0, 0, 0, 0.9);
+    border: 0;
+}
+
+.buy-hero-bg{
+    background-image: url("../images/chocolate-display.png");
+}
+
+.light-text{
+    color:#d9d9d9;
 }
