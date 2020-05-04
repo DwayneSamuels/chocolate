@@ -14,6 +14,7 @@
 .info-hero-bg {
     background-image: url("../images/bg-tile.png");
     background-color: #ffffff;
+    margin-bottom: 0;
 }
 
 .choco-button {
@@ -35,7 +36,12 @@
 }
 
 .buy-hero-bg{
-    background-image: url("../images/chocolate-display.png");
+    background-image: url("../images/view-chocolate-bg.png");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    padding: 15rem 0rem;
+    margin-bottom: 0rem;
 }
 
 .light-text{
